@@ -1,0 +1,10 @@
+.idea/
+*.iml
+out/
+.allure/
+allure-results/
+allure-report/
+target/
+*.class
+.DS_Store
+Thumbs.db
